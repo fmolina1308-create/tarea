@@ -55,9 +55,3 @@ finally:
     if "conn" in locals() and conn.is_connected(): 
       
    conn.close()
-
-
-
-      
-
-        conn.close() 
